@@ -1,4 +1,4 @@
-import { Color, Scene, TextureLoader } from "https://unpkg.com/three@0.141.0/build/three.module.js" ;
+import { Color, Scene, TextureLoader } from "three" ;
 
 function createScene() {
   const loader = new TextureLoader() ; 

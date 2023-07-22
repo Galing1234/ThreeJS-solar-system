@@ -4,7 +4,7 @@ import {
   MathUtils,
   Mesh,
   MeshStandardMaterial
-} from "https://unpkg.com/three@0.141.0/build/three.module.js";
+} from "three";
 
 function createMeshGroup() { 
   const group = new Group() ;

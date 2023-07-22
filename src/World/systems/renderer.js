@@ -1,4 +1,4 @@
-import { WebGLRenderer } from "https://unpkg.com/three@0.141.0/build/three.module.js" ;
+import { WebGLRenderer } from "three" ;
 
 function createRenderer() {
   const renderer = new WebGLRenderer({ antialias: true}) ;
